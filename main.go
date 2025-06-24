@@ -10,7 +10,7 @@ import (
 func main() {
 	port := os.Getenv("PORT")
 	if port == "" {
-		port = "3000" // Default port
+		port = "3000"
 	}
 
 	// Serve static files from the 'web' directory

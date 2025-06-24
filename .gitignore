@@ -10,3 +10,6 @@ air_errors.log
 Thumbs.db
 .specstory
 go-app
+
+# Environment
+.env

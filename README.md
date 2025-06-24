@@ -1,4 +1,7 @@
-# Simple Go Web Application Boilerplate
+# GoMC
+
+> [!IMPORTANT]  
+> This project is Work-In-Progress. To be fair, I have not changed anything. Why would you open this project? Get out.
 
 This is a basic Go web application boilerplate that serves a simple HTML page.
 It includes a Makefile for common development and build tasks, including cross-compilation and hot-reloading.

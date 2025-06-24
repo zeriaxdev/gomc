@@ -1,3 +1,3 @@
-module example.com/go-app
+module zeriaxdev/gomc
 
-go 1.24.2
+go 1.24.4
