@@ -1,0 +1,12 @@
+# Go build output
+/bin/
+
+# Air temporary files
+/tmp/
+air_errors.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+.specstory
+go-app
